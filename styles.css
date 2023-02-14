@@ -8,11 +8,15 @@
 header {
     text-align: center;
     padding-top: 15px;
-    height: 400px;
+    height: 450px;
 }
 
 #cal-wrap * {
     font-family: arial, sans-serif;
+}
+
+a {
+    text-decoration: none;
 }
 
 /* .ninja {
