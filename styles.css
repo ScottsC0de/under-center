@@ -8,25 +8,18 @@
 header {
     text-align: center;
     padding-top: 15px;
+    height: 400px;
 }
 
 #cal-wrap * {
     font-family: arial, sans-serif;
 }
 
-.ninja {
+/* .ninja {
     display: none !important;
-}
-
-/* (B) CONTAINER */
-#cal-wrap {
-    max-width: 600px;
-}
+} */
 
 /* (C) PERIOD SELECTOR */
-#cal-date {
-    display: flex;
-}
 
 #cal-mth,
 #cal-yr {
@@ -40,8 +33,7 @@ header {
 
 /* (D) CALENDAR */
 #calendar {
-    width: 100%;
-    border-collapse: collapse;
+    width: 1440px;
 }
 
 #calendar tr.head td {
