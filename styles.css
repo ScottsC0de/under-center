@@ -12,15 +12,46 @@ header {
     padding-top: 15px;
 }
 
+#dd {
+    font-size: 44px;
+}
+
+#everyone {
+    font-size: 44px;
+}
+
+.miniplayer {
+    margin-top: 23px;
+    margin-bottom: 23px;
+}
+
 #venmo {
     font-size: 2rem;
     padding: 0;
     text-decoration: none;
 }
 
+#vinyl {
+    font-size: 1.25rem;
+}
+
+#group-list {
+    list-style: none;
+    font-size: 1.3rem;
+    line-height: normal;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
 #weezer {
     width: 400px;
     height: 300px;
+}
+
+#links {
+    text-decoration: none;
 }
 
 #artist {
@@ -41,4 +72,5 @@ header {
     width: 400px;
     border: solid 10px black;
     background-color: aliceblue;
+    padding: 10px;
 }
