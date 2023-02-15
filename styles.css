@@ -16,36 +16,13 @@ header {
     font-size: 2rem;
 }
 
-section {
-    margin: auto;
-    width: 50%;
-    padding: 10px;
-}
-
 a {
     text-decoration: none;
 }
 
 .slides {
     font-size: 1.25rem;
-}
-
-#cafe-nine {
-    height: 350px;
-    width: 400px;
-    border: solid 10px black;
-    background-color: aliceblue;
-}
-
-#leesta {
-    height: 350px;
-    width: 400px;
-    border: solid 10px black;
-    background-color: aliceblue;
-}
-
-#seldon1 {
-    height: 350px;
+    height: 1000px;
     width: 400px;
     border: solid 10px black;
     background-color: aliceblue;
