@@ -15,6 +15,7 @@ header {
 #venmo {
     font-size: 2rem;
     padding: 0;
+    text-decoration: none;
 }
 
 #weezer {
@@ -22,7 +23,11 @@ header {
     height: 300px;
 }
 
-a {
+#artist {
+    text-decoration: none;
+}
+
+#uber {
     text-decoration: none;
 }
 
@@ -32,7 +37,7 @@ a {
 
 .slides {
     font-size: 1.25rem;
-    height: 1069px;
+    /* height: 1069px; */
     width: 400px;
     border: solid 10px black;
     background-color: aliceblue;
