@@ -26,6 +26,10 @@ a {
     text-decoration: none;
 }
 
+#cafe-link-site {
+    text-decoration: dashed;
+}
+
 .slides {
     font-size: 1.25rem;
     height: 1212px;
