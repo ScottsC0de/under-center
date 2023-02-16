@@ -12,17 +12,29 @@ header {
     padding-top: 15px;
 }
 
-#dd {
-    font-size: 44px;
+li {
+    margin-bottom: 10px;
+}
+
+#weezer {
+    width: 400px;
+    height: 300px;
 }
 
 #everyone {
     font-size: 44px;
+    margin: 50px;
+    letter-spacing: 3px;
 }
 
-.miniplayer {
-    margin-top: 23px;
-    margin-bottom: 23px;
+#dd {
+    font-size: 44px;
+    letter-spacing: 5px;
+    margin: 50px;
+}
+
+#or {
+    font-size: 1.5rem;
 }
 
 #venmo {
@@ -31,23 +43,10 @@ header {
     text-decoration: none;
 }
 
-#vinyl {
-    font-size: 1.25rem;
-}
-
-#group-list {
+#roster {
     list-style: none;
     font-size: 1.3rem;
-    line-height: normal;
-}
-
-li {
-    margin-bottom: 10px;
-}
-
-#weezer {
-    width: 400px;
-    height: 300px;
+    line-height: 2.5;
 }
 
 #links {
@@ -58,12 +57,12 @@ li {
     text-decoration: none;
 }
 
-#uber {
-    text-decoration: none;
-}
-
 #cafe-link-site {
     text-decoration: dashed;
+}
+
+#vinyl {
+    font-size: 1.25rem;
 }
 
 .slides {
@@ -73,4 +72,9 @@ li {
     border: solid 10px black;
     background-color: aliceblue;
     padding: 10px;
+}
+
+.miniplayer {
+    margin-top: 23px;
+    margin-bottom: 23px;
 }
