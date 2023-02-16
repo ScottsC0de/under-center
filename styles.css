@@ -37,6 +37,11 @@ li {
     font-size: 1.5rem;
 }
 
+#intro {
+    margin: 50px;
+    word-spacing: 5px;
+}
+
 #venmo {
     font-size: 2rem;
     padding: 0;
