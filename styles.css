@@ -30,12 +30,12 @@ li {
 #dd {
     font-size: 44px;
     letter-spacing: 5px;
-    margin: 50px;
+    margin: 40px;
 }
 
-.or {
+/* .or {
     font-size: 1.5rem;
-}
+} */
 
 #intro {
     margin: 50px;
@@ -52,6 +52,10 @@ li {
     list-style: none;
     font-size: 1.3rem;
     line-height: 2.5;
+} */
+
+/* #uber-logos {
+    margin: 15px;
 } */
 
 #links {
