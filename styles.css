@@ -16,11 +16,6 @@ li {
     margin-bottom: 10px;
 }
 
-#weezer {
-    width: 400px;
-    height: 300px;
-}
-
 #everyone {
     font-size: 44px;
     margin: 50px;
@@ -28,7 +23,7 @@ li {
 }
 
 #dd {
-    font-size: 44px;
+    font-size: 55px;
     letter-spacing: 5px;
     margin: 40px;
 }
@@ -38,7 +33,7 @@ li {
 } */
 
 #intro {
-    margin: 50px;
+    margin: 35px 40px;
     word-spacing: 5px;
 }
 
@@ -90,4 +85,8 @@ li {
 .miniplayer {
     margin-top: 23px;
     margin-bottom: 23px;
+}
+
+#jump {
+    font-size: 1.35rem;
 }
